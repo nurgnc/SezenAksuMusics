@@ -1,0 +1,21 @@
+Sayfalama ve router işlemleri yapılacak. (+)
+İmportlar tek dosyadan alınacak. (+)
+Stateler global state olarak düzenlenecek.
+Footer düzenlenecek.
+Arkaplan resimleri dinamikleştirilecek.
+Search componenti yazılacak.
+
+
+
+
+-------Fikirler------
+
+Favoriler.
+Beğenmediklerim.
+Diğer şarkılar.
+    Şarkı ekleme
+    Şarkı Silme
+    Arama
+Şarkı indirme.
+P5.
+

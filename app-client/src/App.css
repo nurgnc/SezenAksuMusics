@@ -1,0 +1,54 @@
+.songs-container{
+  max-width: 850px;
+  margin: 0rem auto;
+  display: flex;
+}
+
+.card-body{
+  border-top: none;
+  border-style: none;
+  background-color: #61dafb;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.card > iframe{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.card{
+  border-style: none;
+  background: none;
+  max-height: 20rem;
+}
+
+.navbar{
+  background: linear-gradient(to left, rgba(255, 254, 254, 0), rgb(252, 5, 5));
+}
+
+.navbar-text {
+  font-family: 'Dancing Script', cursive;
+  font-size: 35px;
+  color: white;
+}
+
+.pre-btn, .next-btn  {
+  width: 10rem;
+  background-color: #61dafb;
+  cursor: pointer;
+  
+}
+
+.page-buttons{
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.p5Canvas{
+  max-width: 250px;
+  max-height: 250px;
+}
